@@ -1,0 +1,24 @@
+Criação de Protótipos
+Relação de telas que devem ser criadas.
+1)	Tela Criação de Usuários para os administradores
+2)	Tela de Login	
+3)	Tela de Home
+4)	Tela de Cadastros
+5)	Tela de Cadastro de Funcionários
+6)	Tela de Cadastro de Clientes
+7)	Tela de Cadastro de Imóveis
+8)	Tela de Consulta
+9)	Tela de Consulta Funcionários
+10)	Tela de Consulta de Clientes
+11)	Tela de Consulta de Imóveis
+12)	Tela de Imóveis
+13)	Tela Consultar Imóveis
+14)	Tela Alugar Imóveis
+15)	Tela Vender Imóveis
+16)	Tela de Pagamentos
+17)	Tela de Pagamentos Pendentes
+18)	Tela de Pagamentos Realizados
+19)	Tela de Relatórios vendas de imóveis por mês
+20)	Tela de Relatórios vendas por vendedor. 
+21)	Tela de Relatórios alocação de imóveis por mês.
+22)	Tela de Relatórios alocações por vendedor.
