@@ -1,0 +1,5 @@
+SIB - Software Imobiliária Brasil
+
+Controlar os pagamentos, controlar os imoveis de acordo com características 
+como(endereço, tamanho, quantidade de cômodos, preço,etc) 
+a serem alugados ou vendidos, Cadastramento padrão e simplificado dos novos imóveis.
